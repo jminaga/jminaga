@@ -1,7 +1,7 @@
 
 # Jared Minaga
 
-### Hi, everyone! I am a scientist and musician branching out into the tech world. Currently living in Dever, CO.
+ Hi, everyone! I am a scientist and musician branching out into the tech world. Currently living in Dever, CO. 
 
 ⚗️ Biochemist <br>
 💻 Developer <br>
@@ -9,13 +9,6 @@
 🏂 Snowboarder <br>
 🏔️ Adventurer <br>
 ⛩️ Traveler 
-
-
-
-
-
-
-
 
 
 ## Technologies & Tools
@@ -31,10 +24,6 @@
 
 
 
-
-
-
-
 ## GitHub Stats
 
 <a href="https://github.com/jminaga/jminaga">
@@ -42,3 +31,9 @@
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jminaga&show_icons=true&theme=radical)
+
+<!-- Sources -->
+
+<!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
