@@ -1,7 +1,7 @@
 
 # Jared Minaga
 
-Hi, everyone! I am a scientist and musician branching out into the tech world. Currently living in Dever, CO. Connect with ne on <a href="linkedin.com/in/jared-minaga-398510122">LinkedIn</a>
+### Hi, everyone! I am a scientist and musician branching out into the tech world. Currently living in Dever, CO.
 
 ⚗️ Biochemist <br>
 💻 Developer <br>
