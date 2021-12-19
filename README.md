@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoWidth=30style=flat)
 ![](https://img.shields.io/badge/-MongoDB-339933?logo=mongodb&logoColor=white&logoWidth=30style=flat)
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30style=flat)
+![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&logoWidth=30style=flat)
 
 
 
